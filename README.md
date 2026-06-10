@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<!--![banner](photo_2026-06-10_04-44-23.jpg)
 **vivideclipse/vivideclipse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
